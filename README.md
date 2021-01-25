@@ -8,7 +8,7 @@ Food Market merupakan sebuah project dari **BuildWithAngga** dengan menggunakan 
 - [x] Register
 - [x] Food List
 - [x] Order List 
-- [x] Payment Gateway ([Midtrans](https://midtrans.com/id, "Midtrans")) 
+- [x] Payment Gateway ([Midtrans](https://midtrans.com/id "Midtrans")) 
 ---
 ## Tools
 Tools yang digunakan :
@@ -35,9 +35,9 @@ Tools yang digunakan :
 6. [Android SDK](https://developer.android.com/studio)
 ---
 ## Project Repository
-1. Back-End Laravel [foodmarket-backend](https://github.com/arnoldarmandosuwuh/foodmarket-backend, "Food Market Backend")
-2. Project React Native [Food Market React Native](https://github.com/arnoldarmandosuwuh/FoodMarketRN, "Food Market React Native")
-3. Project Flutter [Food Market Flutter](https://github.com/arnoldarmandosuwuh/food_market_flutter, "Food Market Flutter")
+1. Back-End Laravel [foodmarket-backend](https://github.com/arnoldarmandosuwuh/foodmarket-backend "Food Market Backend")
+2. Project React Native [Food Market React Native](https://github.com/arnoldarmandosuwuh/FoodMarketRN "Food Market React Native")
+3. Project Flutter [Food Market Flutter](https://github.com/arnoldarmandosuwuh/food_market_flutter "Food Market Flutter")
 
 ---
 ## Preview
@@ -48,4 +48,4 @@ Tools yang digunakan :
 
 ---
 ## Kelas Tutorial
-Untuk kelas tutorial dapat langsung mengakses [BuildWithAngga](https://www.buildwithangga.com/kelas, "Kelas BuildWithAngga"). Informasi lebih lanjut kelas Food Market [React Native](http://bit.ly/BWAFMREACT "BWAFOODMARKET React Native") & [Flutter](http://bit.ly/BWAFM "BWAFOODMARKET Flutter")
+Untuk kelas tutorial dapat langsung mengakses [BuildWithAngga](https://www.buildwithangga.com/kelas "Kelas BuildWithAngga"). Informasi lebih lanjut kelas Food Market [React Native](http://bit.ly/BWAFMREACT "BWAFOODMARKET React Native") & [Flutter](http://bit.ly/BWAFM "BWAFOODMARKET Flutter")
