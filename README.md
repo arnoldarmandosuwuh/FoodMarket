@@ -41,10 +41,12 @@ Tools yang digunakan :
 
 ---
 ## Preview
+<p align="center">
 <img src="image/splash.png" height="150" alt="Splash">
 <img src="image/home.png" height="150" alt="Splash">
 <img src="image/order.png" height="150" alt="Splash">
 <img src="image/success.png" height="150" alt="Splash">
+</p>
 
 ---
 ## Kelas Tutorial
